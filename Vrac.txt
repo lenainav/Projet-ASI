@@ -1,0 +1,127 @@
+Plan:
+
+	Intro:
+		Problèmatique
+		
+	Impression matricielle:
+		
+		
+		
+	Imprimante a jet d'encre:
+		
+		
+		
+	Comparaison entre les 2:
+		
+		
+		
+	Conclusion:
+		Reponse a la pb
+		
+		
+
+Intro:
+
+
+
+
+
+Impression matricielle:
+	Noms : 			imprimante a impacte ou a aiguilles
+	Depuis : 		Apparues avec les 1er ordis (~70) pour afficher les donners en format papier
+	
+	Fonctionnement :	tête d'ecriture composé d'aiguilles venant s'encrer sur un ruban
+				aiguilles propulser sur le papier par des electro aimants
+				plusieurs aiguilles (allant de 8 a 32)
+				ruban monochrome
+				une fois la ligne terminer un rouleau fait avancer le papier pour imprimer la prochaine ligne
+				permet (avec des feuilles carbones) de faire des copies en même temps que l'impression
+	
+	Cout :			Entre 200 et 4000€
+	Autres:			mauvaise qualitée, texte seulement
+				possibilitée d'imprimer presque tout les caractères, peut faire des copies instantanées, pas cher
+				
+	
+Liens:	https://www.over-blog.com/Quest_ce_quune_imprimante_matricielle-1095203942-art136115.html
+	http://fr.wingwit.com/Hardware/computer-printers/25983.html
+	http://fr.wikipedia.org/wiki/Imprimante
+				
+
+
+
+
+Imprimante a jet d'encre:
+	Noms:			ø
+	Depuis:			~70 (tout début)
+	Fonctionnement:		une tete d'impression envoie une/des gouttes d'encre sur la feuille de papier
+				buse délivrant la goutte légèrement déplacer par magnetisme
+				plusieurs procèder d'impression : jet continue ou goutte a la demande
+				jet continu:
+					soit la tête envoi une goutte soit elle n'imprime rien, pas de nuances de couleur
+				gad:
+					goutte génèrer autant de fois que nécéssaire
+					
+				encres:
+					colorant dissous dans un solvant
+				
+	Couts:			40€ a 11k€ + encre (~20€ la cartouche)
+	Autres:			impression couleur et d'images
+				sans contact direct avec le support (donc multi support)
+
+Liens:	http://fr.wikipedia.org/wiki/Jet_d%27encre
+	http://fr.wingwit.com/Hardware/computer-printers/25742.html
+	http://www.rueducommerce.fr/Peripheriques-Reseaux-wifi/952-Imprimantes-et-scanners/3019-Imprimante-Jet-d-encre/Tri-Par-Prix|A.htm
+
+
+Comparaison:
+
+	+ matricielle : pas cher, copies instantanées, imprime tout les caractères
+	- matricielle : bruit, texte seulement, coloration simpliste, mauvaise qualitée
+	
+	+ jet d'encre : pas cher, multi support, imprime une image (donc toutes les formes), convient mieux aux utilisations personnelles
+	- jet d'encre : cout d'entretient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
